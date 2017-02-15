@@ -1,0 +1,15 @@
+//
+//  MoviePlayerDemo.pch
+//  MoviePlayerDemo
+//
+//  Created by wangjingfei on 2016/12/26.
+//  Copyright © 2016年 wangXiao. All rights reserved.
+//
+
+#ifndef MoviePlayerDemo_pch
+#define MoviePlayerDemo_pch
+
+#define KScreenWidth   [[UIScreen mainScreen] bounds].size.width
+#define KScreenHeight  [[UIScreen mainScreen] bounds].size.height
+
+#endif /* MoviePlayerDemo_pch */
